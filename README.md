@@ -147,7 +147,3 @@ Portafolio
 
 LinkedIn
 [https://www.linkedin.com/in/xpgarrido/](https://www.linkedin.com/in/xpgarrido/)
-
-
-y dejar ese repo **muy sólido para reclutadores**.
-```
